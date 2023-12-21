@@ -1,0 +1,53 @@
+
+.container {
+    max-width: 1920px;
+}
+header {
+    background-size: cover;
+    height: 300px;
+    position: relative;
+    
+}
+.logo {
+    width: 50px;
+    border-radius: 50px;
+    position: center;
+}
+.uabjb {
+    width: 120px;
+    position: center;
+}
+.medalla {
+    width: 190px;
+    border-radius: 70px;
+    position: center;
+}
+.invitacion {
+    color: rgb(90, 90, 212);
+}
+.noticias {
+    width: 300px;
+    position: center;
+}
+.actual {
+    color: green;
+}
+.area {
+    width: 150px;
+    border-radius: 50px;
+}
+.img {
+    width: 100px;
+}
+.imgMED {
+    width: 150px;
+}
+.imgPEQ {
+    width: 200px;
+}
+.imgMICRO {
+    width: 250px;
+}
+.carousel-caption h5{
+    color: blue;
+}
